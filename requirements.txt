@@ -1,0 +1,6 @@
+PySide6-Essentials==6.11.1
+shiboken6==6.11.1
+PyMuPDF==1.27.2.3
+Pillow==12.2.0
+PyInstaller==6.20.0
+pyinstaller-hooks-contrib==2026.5
